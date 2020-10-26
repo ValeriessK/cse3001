@@ -1,2 +1,2 @@
 # cse3001
-#practicing git
+practicing git
